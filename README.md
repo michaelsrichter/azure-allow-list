@@ -7,7 +7,7 @@ To use:
 * This works great in Azure Shell. If you're NOT using Azure Shell:
   * Make sure you have the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed.
   * Make sure you have the Azure CLI [Resource Graph Extension](https://docs.microsoft.com/en-us/azure/governance/resource-graph/first-query-azurecli#add-the-resource-graph-extension) installed.
-  * Make sure you a recent version of [node](https://nodejs.org/en/download/) installed.
+  * Make sure you have a recent version of [node](https://nodejs.org/en/download/) installed.
   * Login to the Azure CLI with `az login`.
 * Pull down the code.
 * Run `npm install`.
