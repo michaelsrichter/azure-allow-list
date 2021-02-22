@@ -1,0 +1,17 @@
+{
+  "name": "allowlist",
+  "version": "1.0.0",
+  "description": "Azure Graph Allowlist Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Richter",
+  "license": "MIT",
+  "dependencies": {
+    "convert-array-to-csv": "^2.0.0",
+    "ip-regex": "^4.3.0",
+    "temporary": "^1.1.0",
+    "url-regex": "^5.0.0"
+  }
+}
