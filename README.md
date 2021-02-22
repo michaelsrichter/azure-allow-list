@@ -1,6 +1,8 @@
 # Azure Allow List Generator
 Use node and the Azure CLI to quickly generate allow (or deny) lists for Azure endpoints.
 
+Read the [blog article](https://dev.to/michaelsrichter/easily-create-allow-or-deny-lists-for-azure-resources-pfb).
+
 To use:
 * This works great in Azure Shell. If you're NOT using Azure Shell:
   * Make sure you have the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) installed.
